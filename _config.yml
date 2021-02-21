@@ -20,5 +20,5 @@ defaults:
 plugins: 
   - jekyll-sitemap
   - jekyll-seo-tag
-baseurl: "/Jekyll-Test"
-url: ""
+baseurl: "/"
+url: "https://northrain-cmd.github.io/Jekyll-Test/"
