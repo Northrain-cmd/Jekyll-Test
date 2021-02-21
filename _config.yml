@@ -20,5 +20,5 @@ defaults:
 plugins: 
   - jekyll-sitemap
   - jekyll-seo-tag
-baseurl: "/Jekyll-Test"
+baseurl: ""
 url: ""
